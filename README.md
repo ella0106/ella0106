@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ella0106
-- 👀 I’m interested in Python, Java, Backend, Data Engineering
-- 🌱 I’m currently learning Biomedical & Mechanical Engineering in EWHA Univ.
-- 💞️ Studying on my own : Python, Java etc
+- 👀 I’m interested in Python, Backend, Data Engineering
+- 🌱 I’m currently majoring Biomedical & Mechanical Engineering in EWHA Univ.
+- 💞️ Studying on my own : Python, Data Engineering etc
 - 📫 How to reach me ella0106@naver.com
 
 <!---
