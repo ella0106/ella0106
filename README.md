@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ella0106 currently studying in Boostcamp AI Tech 5
-- 👀 I’m interested in Python, AI, Data Engineering
+- 👋 Hi, I’m @ella0106 currently working in AI Research&Development Cell of Visang Edu.
+- 👀 I’m interested in LLM, Quantization, Data Engineering
 - 🌱 I’m currently majoring Biomedical & Mechanical Engineering in EWHA Univ.
 - 💞️ Studying on my own : Python, Data Engineering etc
 - 📫 How to reach me ella0106@naver.com
