@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ella0106 currently working in AI Research&Development Cell of Visang Edu.
+- 👋 Hi, I’m @ella0106 currently working in AI Research&Development Cell of Visang Edu in an intership program.
 - 👀 I’m interested in LLM, Quantization, Data Engineering
 - 🌱 I’m currently majoring Biomedical & Mechanical Engineering in EWHA Univ.
 - 💞️ Studying on my own : Python, Data Engineering etc
